@@ -160,15 +160,6 @@ void menu(){
 			getchar();
 			pushhead(createnode(number));
 			break;
-//		case 2:
-//			pushtail();
-//			break;
-//		case 3:
-//			pushbefore();
-//			break;
-//		case 4:
-//			pushafter();
-//			break;
 	}
 	
 	
